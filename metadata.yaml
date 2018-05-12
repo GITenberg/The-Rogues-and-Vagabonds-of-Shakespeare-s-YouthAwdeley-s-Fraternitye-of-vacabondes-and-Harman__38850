@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5672
     wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38850#The-Rogues-and-Vagabonds-of-Shakespeare-s-YouthAwdeley-s-Fraternitye-of-vacabondes-and-Harman_
 gutenberg_issued: '2012-02-12'
 gutenberg_type: Text
 identifiers:
